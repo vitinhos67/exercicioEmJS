@@ -1,0 +1,27 @@
+body {
+    background-color: wheat;
+    
+}
+
+
+
+#separador {
+    
+    margin: auto;
+    width: 600px;
+    background-color: white;
+    text-align: center;
+    padding:40px;
+    border-radius: 10px;
+    
+}
+
+
+select {
+    margin-top: 20px;
+    
+}
+
+input {
+    margin-top: 20px;
+}
